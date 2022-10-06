@@ -23,3 +23,9 @@
 ```git push -r```
 
 ```git rebase --continue```
+
+# remove cache files
+
+```git rm -r --cached .idea```
+```git rm -r --cached node_modules```
+
