@@ -15,3 +15,11 @@
 
 ```git log```
 
+# Pull request
+```git pull```
+
+```git push --rebase```
+
+```git push -r```
+
+```git rebase --continue```
