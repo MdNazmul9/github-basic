@@ -89,3 +89,14 @@
  ```git reset --hard HEAD~1```
  ```git push --force```
 ```git revert aade5f3a693bd61dc552591e5e91aab5a62ba7b8 ```
+
+#  merge bugfix_branch with main 
+```git checkout main```
+
+```git pull```
+
+```git checkout bugfix_branch```
+
+```git merge main```
+
+```git push```
