@@ -77,5 +77,5 @@
 # Undoing 
 *hard reset*
 ```git reset --hard HEAD~1```
-*soft reset/ un commit but mofified code existed*
+*soft reset/ keep changed working*
 ```git reset HEAD~1```
