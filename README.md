@@ -88,3 +88,4 @@
  # Remove Remote Git Commit
  ```git reset --hard HEAD~1```
  ```git push --force```
+```git revert aade5f3a693bd61dc552591e5e91aab5a62ba7b8 ```
