@@ -100,3 +100,5 @@
 ```git merge main```
 
 ```git push```
+
+# git for DevOPs
