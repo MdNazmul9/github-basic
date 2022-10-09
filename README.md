@@ -75,4 +75,7 @@
 ```git checkout 8f1b86a9ac3b44641a6173e1343618db5e505fb8```
 
 # Undoing 
+*hard reset*
 ```git reset --hard HEAD~1```
+*soft reset/ un commit but mofified code existed*
+```git reset HEAD~1```
