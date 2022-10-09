@@ -77,8 +77,14 @@
 # Undoing 
 *hard reset*
 ```git reset --hard HEAD~1```
+
 *soft reset/ keep changed working*
 ```git reset HEAD~1```
 
 ```git add .```
+
 ```git commit --amend```
+ 
+ # Remove Remote Git Commit
+ ```git reset --hard HEAD~1```
+ ```git push --force```
